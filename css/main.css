@@ -1,0 +1,61 @@
+.cancharecta {
+	           width: 800px;
+               height: 450px;
+               position: absolute;
+	           background-color: #8cd98c;
+}  
+.linea {
+	     width: 700px;
+         height: 376px;
+         border: 2px solid white;
+         position: absolute;
+         top: 30px;
+	     left: 45px;
+} 
+.arco {
+	     width: 95px;
+         height: 170px;
+         border: 2px solid white;
+         border-left: 0px;
+         position: absolute;
+         top: 115px;
+	    
+}   
+
+.dos {
+         border: 2px solid white;
+         border-right: 0px;
+         margin-left: 605px;
+}
+
+.circulo {
+			border:2px solid white;
+	       	width: 160px;
+	       	height: 160px;
+	       	border-radius: 100px;
+	       	margin-left: 260px;
+	       	top: 120px;
+    		position: absolute;
+}   
+.pelota {
+	        border:2px solid white;
+	        background: white;
+	       	width: 20px;
+	       	height: 20px;
+	       	border-radius: 100px;
+}
+.primera{
+			margin-left: 83px;
+	       	top: 118px;
+			position: absolute;
+}
+.segunda{
+			margin-left: 355px;
+	       	top: 60px;
+			position: absolute;
+}
+.tercera{
+			margin-left: 575px;
+	       	top: 260px;
+			position: absolute;
+}
